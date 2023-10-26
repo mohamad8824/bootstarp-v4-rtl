@@ -1,0 +1,17 @@
+{
+  "name": "bootstrapv4rtl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "build": "css-minify -f bootstrap-rtl.css -o /"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "css-minify": "^2.0.0"
+  }
+}
