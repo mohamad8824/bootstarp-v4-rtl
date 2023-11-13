@@ -3,7 +3,9 @@
     <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
   </a>
 </p>
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)]]
+
+[![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
+
 # Bootstrap V4 Right to Left (RTL)
 
 Bootstrap CSS Framework V4 For RTL Languages
