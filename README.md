@@ -19,10 +19,10 @@ Bootstrap CSS Framework V4 For RTL Languages
   │   ├── example-4
   │   ├── example-5
   │   ├── example-6
-  │   └──style
-  ├──  bootstrap-rtl.css
-  ├──  bootstrap-rtl.min.css
-  ├──  README.md
+  │   └── style
+  ├── bootstrap-rtl.css
+  ├── bootstrap-rtl.min.css
+  ├── README.md
   └── package.json
 
   ```
