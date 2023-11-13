@@ -25,13 +25,6 @@ Bootstrap CSS Framework V4 For RTL Languages
   └── package.json
 
   ```
-
-
-## Documentation
-
-Bootstrap's documentation, included in this repo in the root directory, is built with [Hugo](https://gohugo.io/) and publicly hosted on GitHub Pages at <https://getbootstrap.com/>. The docs may also be run locally.
-
-
 ### Documentation for previous releases
 
 You can find all our previous releases docs on <https://getbootstrap.com/docs/versions/>.
