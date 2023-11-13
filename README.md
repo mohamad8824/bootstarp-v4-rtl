@@ -22,6 +22,7 @@ Bootstrap CSS Framework V4 For RTL Languages
   │   └──style
   ├──  bootstrap-rtl.css
   ├──  bootstrap-rtl.min.css
+  ├──  README.md
   └── package.json
 
   ```
