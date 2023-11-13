@@ -2,11 +2,9 @@
   <a href="https://getbootstrap.com/">
     <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
   </a>
-
-[![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
-
 </p>
 
+[![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 
 # Bootstrap V4 Right to Left (RTL)
 
