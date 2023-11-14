@@ -1,0 +1,18 @@
+{
+    "name": "mohamad/bootstrap-v4-rtl",
+    "description": "Bootstrap CSS Framework V4 For RTL Languages",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mohamad\\BootstrapV4Rtl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohamad Ganji",
+            "email": "mohamad8824@gmail.com"
+        }
+    ],
+    "require": {}
+}
