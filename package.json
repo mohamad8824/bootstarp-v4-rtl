@@ -1,16 +1,17 @@
 {
-  "name": "bootstrapv4rtl",
+  "name": "bootstrapv4rtl-moga",
   "version": "1.0.0",
-  "description": "",
+  "description": "bootstrap v4 Right to Left",
   "main": "index.js",
+  "keywords": ["bootstrap" , "bootstrap v4" , "RTL"],
   "directories": {
     "example": "examples"
   },
   "scripts": {
     "build": "css-minify -f bootstrap-rtl.css -o /"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Mohamad Ganji",
+  "license": "MIT",
   "dependencies": {
     "css-minify": "^2.0.0"
   }
