@@ -5,6 +5,7 @@
 </p>
 
 [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
+[![npm version](https://badge.fury.io/js/bootstrapv4rtl-moga.svg)](https://badge.fury.io/js/bootstrapv4rtl-moga)
 # Bootstrap V4 Right to Left (RTL)
 
 Bootstrap CSS Framework V4 For RTL Languages
