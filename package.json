@@ -1,6 +1,6 @@
 {
   "name": "bootstrapv4rtl-moga",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "bootstrap v4 Right to Left",
   "main": "index.js",
   "keywords": ["bootstrap" , "bootstrap v4" , "RTL"],
